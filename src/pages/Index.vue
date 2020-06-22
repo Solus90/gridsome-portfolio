@@ -3,7 +3,7 @@
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
       <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
         <div class="leading-tight">Phillip Linley Portfolio</div>
-        <div class="text-green-700 leading-tight">Powered by Vue.js &amp; Tailwind v1</div>
+        <div class="text-green-700 leading-tight">Front-End Developer Fuled by Cold Brew Coffee</div>
       </div>
       <div class="mt-8 sm:mt-0">
         <g-image src="../../static/developer.svg" alt="hero" class="mx-auto sm:mx-0" />
@@ -33,20 +33,28 @@
 
         <ul class="text-lg sm:text-xl space-y-6">
           <li class="checkmark">
-            <div>Project One</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            <div><a href="https://solus90.github.io/Forkify/" target="_blank">Recipe Finder Web App</a></div>
+            <div class="text-lg text-gray-600">This was made with HTML, CSS, and plain Javascript. I utilized a free API called "forkify". The user is able to save favorites and add ingredients to a shopping cart which updates as you add more items. 
+              <a href="https://github.com/Solus90/Forkify">GitHub</a>
+            </div>
           </li>
           <li class="checkmark">
-            <div>Project Two</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            <div><a href="https://solus-smoothies.web.app/#/" target="_blank">Smoothie Databse</a></div>
+            <div class="text-lg text-gray-600">This was made with HTML, CSS, and Vue.js. It allows users to create and save smoothie recipes utilizing Firebase and Firestore, a NoSQL database. UI can read and write to the database as well as delete. Utilized material design language. Mobile responsive.  
+              <a href="https://github.com/Solus90/vue-solus-smoothies">GitHub</a>
+            </div>
           </li>
           <li class="checkmark">
-            <div>Project Three</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            <div><a href="https://geo-solus.web.app/login" target="_blank">Geolocation Social Network</a></div>
+            <div class="text-lg text-gray-600">This was made with HTML, CSS, and Vue.js. It allows users to sign up for an account with an email and password and then places a marker onto a map provided by a google maps API.  Users can then click on other members markers and write on their "wall".  
+              <a href="https://github.com/Solus90/geoSolus">GitHub</a>
+            </div>
           </li>
           <li class="checkmark">
-            <div>Project Four</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            <div><a href="https://solus90.github.io/sample-website/" target="_blank">Web Design Studio</a></div>
+            <div class="text-lg text-gray-600">This was made with HTML, CSS, and Bootstrap version 4.
+              <a href="https://github.com/Solus90/sample-website">GitHub</a>
+            </div>
           </li>
 
         </ul>
