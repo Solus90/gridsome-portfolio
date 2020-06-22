@@ -11,7 +11,10 @@
     </div> <!-- end hero -->
 
     <div class="container-inner mx-auto">
-      <p class="text-lg sm:text-xl">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet turpis lorem. Phasellus sit amet tortor euismod, luctus odio sit amet, vehicula nibh. Integer rhoncus magna ullamcorper, varius risus varius, consequat ligula. Vivamus semper augue ante, quis aliquam tellus sodales in. Morbi egestas purus sed nisl placerat pharetra. Mauris facilisis tellus a fermentum ultricies. Mauris tristique mauris mauris, ut faucibus diam vestibulum vel. Praesent dapibus tristique viverra.</p>
+      <p class="text-lg sm:text-xl">Hello!  Thanks for checking out my portfolio, I hope you enjoy what you see.  I'm a front-end developer who loves web design and learning new technologies every day.  
+        I'm a big believer in open-source software and enjoy developing with VueJs.  I think JAMstack is the future of the internet.  When I'm not busy changing 
+        world, I enjoy spending time with my family, playing board games, and being let down by my favorite sports teams.  Feel free to drop me a line down below.  
+        Let's make something beautiful together.</p>
 
       <div class="flex justify-between items-center py-6">
         <div class="w-full sm:w-1/2 px-8 py-8 sm:py-0">
@@ -45,7 +48,7 @@
             </div>
           </li>
           <li class="checkmark">
-            <div><a href="https://geo-solus.web.app/login" target="_blank">Geolocation Social Network</a></div>
+            <div><a href="https://geo-solus.web.app/signup" target="_blank">Geolocation Social Network</a></div>
             <div class="text-lg text-gray-600">This was made with HTML, CSS, and Vue.js. It allows users to sign up for an account with an email and password and then places a marker onto a map provided by a google maps API.  Users can then click on other members markers and write on their "wall".  
               <a href="https://github.com/Solus90/geoSolus">GitHub</a>
             </div>
@@ -105,7 +108,7 @@
                           Email Address
                       </label>
 
-                      <input type="email" name="_replyto" id="email" placeholder="email@example.com"  class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-green-700 mb-2 p-4" required>
+                      <input type="email" name="_replyto" id="email" placeholder="dakingindanorf@winterfell.com"  class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-green-700 mb-2 p-4" required>
                   </div>
               </div>
 

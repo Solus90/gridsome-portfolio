@@ -7,7 +7,7 @@
 module.exports = {
   siteName: 'Phil Linley Portfolio',
   siteDescription: 'A simple portfolio for Phil Linley',
-  siteUrl: 'https://cranky-feynman-f8e7b8.netlify.app/',
+  siteUrl: 'https://phillinley.com/',
   plugins: [
     {
       use: 'gridsome-plugin-tailwindcss',

@@ -38,11 +38,6 @@ export default function (Vue, { router, head, isClient }) {
     rel: 'stylesheet',
     href: 'https://fonts.googleapis.com/css?family=Nunito+Sans:400,700'
   })
-
-  head.link.push({
-    rel: 'stylesheet',
-    src: "https://use.fontawesome.com/6c2cbe381f.js"
-  })
 }
 
 
