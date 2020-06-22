@@ -5,6 +5,9 @@ import DefaultLayout from '~/layouts/Default.vue'
 import VueScrollTo from 'vue-scrollto'
 import VueFuse from 'vue-fuse'
 
+
+
+
 export default function (Vue, { router, head, isClient }) {
   // Set default layout as a global component
   Vue.component('Layout', DefaultLayout)
@@ -34,6 +37,11 @@ export default function (Vue, { router, head, isClient }) {
   head.link.push({
     rel: 'stylesheet',
     href: 'https://fonts.googleapis.com/css?family=Nunito+Sans:400,700'
+  })
+
+  head.link.push({
+    rel: 'stylesheet',
+    src: "https://use.fontawesome.com/6c2cbe381f.js"
   })
 }
 

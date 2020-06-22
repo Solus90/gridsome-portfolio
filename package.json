@@ -7,6 +7,9 @@
     "explore": "gridsome explore"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.29",
+    "@fortawesome/free-solid-svg-icons": "^5.13.1",
+    "@fortawesome/vue-fontawesome": "^0.1.10",
     "@gridsome/plugin-sitemap": "^0.3.0",
     "@gridsome/source-filesystem": "^0.6.2",
     "@gridsome/transformer-remark": "^0.6.0",
@@ -19,6 +22,7 @@
     "vue-scrollto": "^2.18.1"
   },
   "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.1",
     "gridsome-plugin-tailwindcss": "^2.2.48"
   }
 }

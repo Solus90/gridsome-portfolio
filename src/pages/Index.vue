@@ -71,8 +71,8 @@
 
         <div class="flex flex-col sm:flex-row justify-between items-center mb-16">
           <div><g-image src="../../static/phil.jpg" alt="avatar" class="w-32 h-32 rounded-full mb-8 lg:mb-0" /></div>
-          <div class="flex-1 text-lg sm:text-xl ml-6">Front-end developer specializing in HTML5, CSS3, LESS, SASS, JavaScript, and Vue. 
-            Currently I am interning with Random Acts studios based out of Columbus, Ohio.</div>
+          <div class="flex-1 text-lg sm:text-xl ml-6">Driven web developer with a focus on JavaScript and Vue.js. 
+            I am a Dad and an avid Dungeons and Dragons player. Experienced with most front-end technologies as well as NoSQL databases, primarily Firebase.  Big believer in JAMstack.</div>
         </div>
 
       </div> <!-- end get-to-know me -->
