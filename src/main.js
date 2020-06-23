@@ -26,7 +26,7 @@ export default function (Vue, { router, head, isClient }) {
 
   head.meta.push({
     name: 'description',
-    content: 'Phil Linley Portfolio'
+    content: "Phil's Portfolio"
   })
 
   head.meta.push({
