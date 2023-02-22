@@ -42,9 +42,8 @@
             </div>
           </li>
           <li class="checkmark">
-            <div><a href="https://solus-smoothies.web.app/#/" target="_blank">Smoothie Databse</a></div>
-            <div class="text-lg text-gray-600">This was made with HTML, CSS, and Vue.js. It allows users to create and save smoothie recipes utilizing Firebase and Firestore, a NoSQL database. UI can read and write to the database as well as delete. Utilized material design language. Mobile responsive.  
-              <a href="https://github.com/Solus90/vue-solus-smoothies">[GitHub]</a>
+            <div><a href="https://www.myzosi.com/" target="_blank">Zosi</a></div>
+            <div class="text-lg text-gray-600">This website was for a brand new company. We utilized Vue and Tailwind for the front end and Shopify and Netlify for the back end.  
             </div>
           </li>
           <li class="checkmark">
