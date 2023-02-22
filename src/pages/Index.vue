@@ -47,15 +47,18 @@
             </div>
           </li>
           <li class="checkmark">
-            <div><a href="https://geo-solus.web.app/signup" target="_blank">Geolocation Social Network</a></div>
-            <div class="text-lg text-gray-600">This was made with HTML, CSS, and Vue.js. It allows users to sign up for an account with an email and password and then places a marker onto a map provided by a google maps API.  Users can then click on other members markers and write on their "wall".  
-              <a href="https://github.com/Solus90/geoSolus">[GitHub]</a>
+            <div><a href="https://www.claconnect.com/en" target="_blank">CLA Connect</a></div>
+            <div class="text-lg text-gray-600">I was the primary Web Master for CLA Connect. This involved updating their website and blog posts through the Sitecore CMS.  
             </div>
           </li>
           <li class="checkmark">
-            <div><a href="https://solus90.github.io/sample-website/" target="_blank">Web Design Studio</a></div>
-            <div class="text-lg text-gray-600">This was made with HTML, CSS, and Bootstrap version 4.
-              <a href="https://github.com/Solus90/sample-website">[GitHub]</a>
+            <div><a href="https://product.sweetlorens.com/" target="_blank">Sweet Lorens</a></div>
+            <div class="text-lg text-gray-600">Landing page created for a new ongoing promotion. Utilized Tailwind CSS and Javascript.
+            </div>
+          </li>
+          <li class="checkmark">
+            <div><a href="https://insideeverybottle.discovercaliforniawines.com/en-us/" target="_blank">Inside Every Bottle | California Wines</a></div>
+            <div class="text-lg text-gray-600">New page created for California Wines which supports multiple languages. Utilized Vue and Gridsome Static Site Generator.
             </div>
           </li>
 
