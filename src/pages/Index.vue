@@ -76,7 +76,7 @@
 
         <div class="flex flex-col sm:flex-row justify-between items-center mb-16">
           <div><g-image src="../../static/phil.jpg" alt="avatar" class="w-32 h-32 rounded-full mb-8 lg:mb-0" /></div>
-          <div class="flex-1 text-lg sm:text-xl ml-6">Front-end developer with 3 years of experience in HTML, CSS, and responsive design. 
+          <div class="flex-1 text-lg sm:text-xl ml-0 md:ml-6">Front-end developer with 3 years of experience in HTML, CSS, and responsive design. 
             I am a Dad and an avid Dungeons and Dragons player. Experienced with most front-end technologies as well as NoSQL databases, primarily Firebase.  Big believer in JAMstack.</div>
         </div>
 
