@@ -62,7 +62,7 @@
           </li>
 
           <li>
-            <a href="https://www.linkedin.com/in/phil-linley-6ba55850/" target="_blank">
+            <a href="https://www.linkedin.com/in/phil-linley/" target="_blank">
               <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
               width="26" height="26"
               viewBox="0 0 172 172"
