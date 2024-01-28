@@ -36,7 +36,7 @@
 
         <ul class="text-lg sm:text-xl space-y-6">
           <li class="checkmark">
-            <div><a href="https://solus90.github.io/Forkify/" target="_blank">Recipe Finder Web App</a></div>
+            <div><a href="https://solus90.github.io/Forkify/" target="_blank">Recipe Finder Web App (desktop only)</a></div>
             <div class="text-lg text-gray-600">This was made with HTML, CSS, and plain Javascript. I utilized a free API called "forkify". The user is able to save favorites and add ingredients to a shopping cart which updates as you add more items. 
               <a href="https://github.com/Solus90/Forkify">[GitHub]</a>
             </div>
@@ -59,6 +59,11 @@
           <li class="checkmark">
             <div><a href="https://insideeverybottle.discovercaliforniawines.com/en-us/" target="_blank">Inside Every Bottle | California Wines</a></div>
             <div class="text-lg text-gray-600">New page created for California Wines which supports multiple languages. Utilized Vue and Gridsome Static Site Generator.
+            </div>
+          </li>
+          <li class="checkmark">
+            <div><a href="https://www.meta.com/" target="_blank">Meta.com</a></div>
+            <div class="text-lg text-gray-600">I was one of four web developers devoted to supporting meta.com. Assisted with ongoing support and continual updates to the webpage. Utilized Meta’s proprietary content management system.
             </div>
           </li>
 
