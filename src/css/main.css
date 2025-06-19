@@ -26,7 +26,7 @@
 }
 
 .theme-dark .markdown-body {
-    color: #24292e;
+  color: #e5e7eb; /* almost white for good contrast */
 }
 
 .theme-dark .search-highlighted {
@@ -38,24 +38,28 @@
 }
 
 .theme-dark {
-  --bg-background-primary: #0D2438;
-  --bg-background-secondary: #102C44;
-  --bg-background-tertiary: #1E3951;
+  --bg-background-primary: #222222;         /* near-black */
+  --bg-background-secondary: #121212;      /* darker gray */
+  --bg-background-tertiary: #1a1a1a;       /* still very dark, less contrast */
 
-  --bg-background-form: #1a202c;
+  --bg-background-form: #1a1a1a;
 
-  --text-copy-primary: #cbd5e0;
-  --text-copy-secondary: #e2e8f0;
+  --text-copy-primary: #d1d5db;            /* light gray text */
+  --text-copy-secondary: #9ca3af;          /* muted gray */
 
-  --border-border-color-primary:  #1a202c;
+  --border-border-color-primary: #2d2d2d;  /* subtle border */
 }
 
-.theme-dark .markdown-body {
-    color: #cbd5e0;
+.theme-dark .search-highlighted {
+  background: #2a2a2a;
+}
+
+.theme-dark .search-hover:hover {
+  background: #333333;
 }
 
 .theme-dark nav .active {
-    @apply border-white border-b;
+  border-bottom: 1px solid #fff; /* Tailwind's border-white border-b */
 }
 
 .content-wrapper {
@@ -68,16 +72,16 @@
 }
 
 a {
-  @apply text-green-700 font-bold;
+  color: #047857; /* Tailwind's text-green-700 */
+  font-weight: bold;
 }
-
 a:hover {
-  @apply text-green-800;
+  color: #065f46; /* Tailwind's text-green-800 */
 }
 
 nav .active {
   font-weight: bold;
-  @apply border-black border-b;
+  border-bottom: 1px solid #000; /* Tailwind's border-black border-b */
 }
 
 .container-inner {
@@ -102,11 +106,10 @@ nav .active {
     max-width: 800px;
   }
 }
-
 .checkmark {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg%20width%3D%2229%22%20height%3D%2229%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%3E%3Cpath%20d%3D%22M4.427%2024.93A14.5%2014.5%200%201%201%2024.93%204.427c5.495%205.69%205.416%2014.733-.177%2020.326s-14.637%205.672-20.326.177z%22%20fill%3D%22%232E855A%22/%3E%3Cpath%20fill%3D%22%23FFF%22%20d%3D%22M10.234%2012.803l3.67%203.253L20.766%2010%2023%2012l-9.096%208L8%2014.789l2.234-2z%22/%3E%3C/svg%3E");
   background-repeat: no-repeat;
-  @apply pl-10;
+  padding-left: 2.5rem; /* Tailwind's pl-10 */
 }
 
 .responsive-container {

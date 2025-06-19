@@ -1,7 +1,7 @@
 describe('Loading Pages', () => {
   it('visits the homepage', () => {
     cy.visit('/')
-      .contains('Gridsome Portfolio Starter')
+      .contains('Phil Linley | Web Developer')
   })
 
   it('visits the blog page', () => {

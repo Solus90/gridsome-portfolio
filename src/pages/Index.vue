@@ -2,11 +2,11 @@
   <Layout>
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
       <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
-        <div class="leading-tight">Phillip Linley's Portfolio</div>
-        <div class="text-green-700 leading-tight">Front-End Developer Fueled by Cold Brew Coffee</div>
+        <div class="leading-tight">Phillip Linley</div>
+        <div class="text-green-700 leading-tight">Front-End Developer with a taste for good vibes & cold brew.</div>
       </div>
       <div class="mt-8 sm:mt-0">
-        <g-image src="../../static/developer.svg" alt="hero" class="mx-auto sm:mx-0" />
+        <g-image src="../../static/philheader.png" alt="hero" class="mx-auto sm:mx-0" />
       </div>
     </div> <!-- end hero -->
 
@@ -36,33 +36,33 @@ Thanks for stopping by. Take a look around, and if you like what you see, let’
         <ul class="text-lg sm:text-xl space-y-6">
           <li class="checkmark">
             <div><a href="https://solus90.github.io/Forkify/" target="_blank">Recipe Finder Web App (desktop only)</a></div>
-            <div class="text-lg text-gray-600">This was made with HTML, CSS, and plain Javascript. I utilized a free API called "forkify". The user is able to save favorites and add ingredients to a shopping cart which updates as you add more items. 
+            <div class="text-lg text-gray-500">This was made with HTML, CSS, and plain Javascript. I utilized a free API called "forkify". The user is able to save favorites and add ingredients to a shopping cart which updates as you add more items. 
               <a href="https://github.com/Solus90/Forkify">[GitHub]</a>
             </div>
           </li>
           <li class="checkmark">
             <div><a href="https://www.myzosi.com/" target="_blank">Zosi</a></div>
-            <div class="text-lg text-gray-600">This website was for a brand new company. We utilized Vue and Tailwind for the front end and Shopify and Netlify for the back end.  
+            <div class="text-lg text-gray-500">This website was for a brand new company. We utilized Vue and Tailwind for the front end and Shopify and Netlify for the back end.  
             </div>
           </li>
           <li class="checkmark">
             <div><a href="https://www.claconnect.com/en" target="_blank">CLA Connect</a></div>
-            <div class="text-lg text-gray-600">I was the primary Web Master for CLA Connect. This involved updating their website and blog posts through the Sitecore CMS.  
+            <div class="text-lg text-gray-500">I was the primary Web Master for CLA Connect. This involved updating their website and blog posts through the Sitecore CMS.  
             </div>
           </li>
           <li class="checkmark">
             <div><a href="https://product.sweetlorens.com/" target="_blank">Sweet Lorens</a></div>
-            <div class="text-lg text-gray-600">Landing page created for a new ongoing promotion. Utilized Tailwind CSS and Javascript.
+            <div class="text-lg text-gray-500">Landing page created for a new ongoing promotion. Utilized Tailwind CSS and Javascript.
             </div>
           </li>
           <li class="checkmark">
             <div><a href="https://insideeverybottle.discovercaliforniawines.com/en-us/" target="_blank">Inside Every Bottle | California Wines</a></div>
-            <div class="text-lg text-gray-600">New page created for California Wines which supports multiple languages. Utilized Vue and Gridsome Static Site Generator.
+            <div class="text-lg text-gray-500">New page created for California Wines which supports multiple languages. Utilized Vue and Gridsome Static Site Generator.
             </div>
           </li>
           <li class="checkmark">
             <div><a href="https://www.meta.com/" target="_blank">Meta.com</a></div>
-            <div class="text-lg text-gray-600">I was one of four web developers devoted to supporting meta.com. Assisted with ongoing support and continual updates to the webpage. Utilized Meta’s proprietary content management system.
+            <div class="text-lg text-gray-500">I was one of four web developers devoted to supporting meta.com. Assisted with ongoing support and continual updates to the webpage. Utilized Meta’s proprietary content management system.
             </div>
           </li>
 

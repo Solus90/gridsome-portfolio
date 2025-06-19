@@ -5,9 +5,9 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Gridsome Portfolio Starter',
-  siteDescription: 'A simple portfolio theme for Gridsome powered by Tailwind CSS v1',
-  siteUrl: 'https://gridsome-portfolio-starter.netlify.com',
+  siteName: 'Phil Linley | Web Developer',
+  siteDescription: 'Personal portfolio of Phillip Linley, a front-end developer based in the USA. Showcasing projects, skills, and blog posts about web development.',
+  siteUrl: 'https://phillinley.com/',
   plugins: [
     {
       use: 'gridsome-plugin-tailwindcss',
@@ -42,7 +42,7 @@ module.exports = {
       options: {
         contentTypeName: 'Post',
         feedOptions: {
-          title: 'Gridsome Portfolio Starter Blog',
+          title: 'Phil Linley | Web Developer',
           feed_url: 'https://gridsome-portfolio-starter.netlify.com/rss.xml',
           site_url: 'https://gridsome-portfolio-starter.netlify.com/'
         },
